@@ -12,9 +12,19 @@
 1.[Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730)
 
 # Bash
+1. [iterm2](https://www.iterm2.com/)
+2. awk
+3. sed
+4. [bio Syntax](https://biosyntax.org/)
 
 # Blogs
 1. (https://rna-seqblog.com)
 2. (http://www.longwoodgenomics.org/)
 3. (https://liorpachter.wordpress.com/)
+4. (https://davetang.org/)
+5. (http://onetipperday.sterding.com/)
+
+# bioconductor
+1. [biocworkshop](http://biocworkshops2019.bioconductor.org.s3-website-us-east-1.amazonaws.com/)
+
 
