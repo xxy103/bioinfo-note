@@ -9,7 +9,7 @@
 2. [ggplot2: Elegant Graphics for Data Analysis (Use R!)](https://www.amazon.com/ggplot2-Elegant-Graphics-Data-Analysis/dp/0387981403)
 
 # Python
-1.[Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730)
+1. [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730)
 
 # Bash
 1. [iterm2](https://www.iterm2.com/)
