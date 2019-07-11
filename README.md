@@ -29,8 +29,10 @@
 2. [Data Analysis in Genome Biology](http://girke.bioinformatics.ucr.edu/GEN242/index.html)
 3. [Biomedical Data Science](https://genomicsclass.github.io/book/)
 4. [Introduction to Computational Biology](https://biodatascience.github.io/compbio/)
+5. [Gviz](https://www.bioconductor.org/packages/devel/bioc/vignettes/Gviz/inst/doc/Gviz.html)
 
 # Tools
 1. [bwt](https://www.youtube.com/watch?v=4n7NPk5lwbI)
 2. [bedtools, Applied Computational Genomics Course](https://github.com/quinlan-lab/applied-computational-genomics#course-lecture-slides)
 3. [bedtools, cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e) 
+
