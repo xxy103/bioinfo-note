@@ -13,8 +13,8 @@
 
 # Bash
 1. [iterm2](https://www.iterm2.com/)
-2. awk
-3. sed
+2. [awk](https://vds-admin.ru/sed-and-awk-101-hacks)
+3. [sed](https://vds-admin.ru/sed-and-awk-101-hacks)
 4. [bio Syntax](https://biosyntax.org/)
 
 # Blogs
@@ -34,5 +34,4 @@
 # Tools
 1. [bwt](https://www.youtube.com/watch?v=4n7NPk5lwbI)
 2. [bedtools, Applied Computational Genomics Course](https://github.com/quinlan-lab/applied-computational-genomics#course-lecture-slides)
-3. [bedtools, cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e) 
-
+3. [bedtools, cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e)
