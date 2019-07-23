@@ -3,6 +3,7 @@
 2. [Bioinformatics and Functional Genomics](https://www.amazon.com/Bioinformatics-Functional-Genomics-Jonathan-Pevsner-ebook/dp/B0144NZ2EC)
 3. [Practical Computing for Biologists](https://www.amazon.com/Practical-Computing-Biologists-Steven-Haddock/dp/0878933913)
 4. [The Biostar Handbook](https://www.biostarhandbook.com/)
+5. [Computational Biology A Practical Introduction to BioData Processing and Analysis with Linux, MySQL, and R](https://www.springer.com/gp/book/9783642347481)
 
 # R
 1. [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399)
@@ -35,3 +36,4 @@
 1. [bwt](https://www.youtube.com/watch?v=4n7NPk5lwbI)
 2. [bedtools, Applied Computational Genomics Course](https://github.com/quinlan-lab/applied-computational-genomics#course-lecture-slides)
 3. [bedtools, cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e)
+4. [Snakemake](https://github.com/snakemake-workflows/docs)
