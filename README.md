@@ -37,3 +37,8 @@
 2. [bedtools, Applied Computational Genomics Course](https://github.com/quinlan-lab/applied-computational-genomics#course-lecture-slides)
 3. [bedtools, cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e)
 4. [Snakemake](https://github.com/snakemake-workflows/docs)
+
+# papers
+- [RNA Sequencing Data: Hitchhiker's Guide to Expression Analysis](https://www.annualreviews.org/doi/full/10.1146/annurev-biodatasci-072018-021255)
+- [Modeling and analysis of RNA-seq data: a review from a statistical perspective](https://link.springer.com/article/10.1007/s40484-018-0144-7)
+- [A survey of best practices for RNA-seq data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8)
