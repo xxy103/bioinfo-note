@@ -43,3 +43,6 @@
 - [Modeling and analysis of RNA-seq data: a review from a statistical perspective](https://link.springer.com/article/10.1007/s40484-018-0144-7)
 - [A survey of best practices for RNA-seq data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8)
 - [RNA sequencing: the teenage years](https://www.nature.com/articles/s41576-019-0150-2)
+
+#Course
+- [applied-computational-genomics](https://github.com/quinlan-lab/applied-computational-genomics)
