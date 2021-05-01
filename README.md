@@ -44,5 +44,5 @@
 - [A survey of best practices for RNA-seq data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8)
 - [RNA sequencing: the teenage years](https://www.nature.com/articles/s41576-019-0150-2)
 
-#Course
+# Course
 - [applied-computational-genomics](https://github.com/quinlan-lab/applied-computational-genomics)
