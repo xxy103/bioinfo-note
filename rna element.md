@@ -8,6 +8,7 @@
 7. [Vault RNA](https://www.genenames.org/data/genegroup/#!/group/852)
 8. [tRNA](https://www.genenames.org/data/genegroup/#!/group/478)
 9. [snRNA](https://www.genenames.org/data/genegroup/#!/group/849)
+10.[piRNA](https://www.genenames.org/data/genegroup/#!/group/851)
 
 # mobile element
 
@@ -19,7 +20,7 @@
   -- Alu (recognized by the restriction enzyme AluI)
 
   - **long interspersed element (LINE)**
-  
+
   --- LINE-1 (L1)
 
 ## DNA transposon
