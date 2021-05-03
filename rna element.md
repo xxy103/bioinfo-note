@@ -9,21 +9,23 @@
 8. [tRNA](https://www.genenames.org/data/genegroup/#!/group/478)
 9. [snRNA](https://www.genenames.org/data/genegroup/#!/group/849)
 
-## mobile element
+# mobile element
 
-# Retrotranspon
+## Retrotranspon
 1. human endogenous retrovirus (HERV) (as known as long-terminal-repeat [LTR] )
 2. non-LTR
   - **short interspersed element (SINE)**
+
   -- Alu (recognized by the restriction enzyme AluI)
 
   - **long interspersed element (LINE)**
+  
   --- LINE-1 (L1)
 
-# DNA transposon
+## DNA transposon
 
 
 # Further read
--[wiki](https://en.wikipedia.org/wiki/Retrotransposon#Alu_elements)
--[disease](https://doi.org/doi:10.1056/NEJMra1510092)
--[eclip](https://doi.org/10.1186/s13059-020-01982-9)
+- [wiki](https://en.wikipedia.org/wiki/Retrotransposon#Alu_elements)
+- [disease](https://doi.org/doi:10.1056/NEJMra1510092)
+- [eclip](https://doi.org/10.1186/s13059-020-01982-9)
