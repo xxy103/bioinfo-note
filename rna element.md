@@ -25,6 +25,8 @@
 
 ## DNA transposon
 
+# [gencode biotype](https://www.gencodegenes.org/pages/biotypes.html)
+
 
 # Further read
 - [wiki](https://en.wikipedia.org/wiki/Retrotransposon#Alu_elements)
