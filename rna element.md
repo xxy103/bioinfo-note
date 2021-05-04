@@ -9,6 +9,7 @@
 8. [tRNA](https://www.genenames.org/data/genegroup/#!/group/478)
 9. [snRNA](https://www.genenames.org/data/genegroup/#!/group/849)
 10. [piRNA](https://www.genenames.org/data/genegroup/#!/group/851)
+11. [long non-coding RNA](https://www.genenames.org/data/genegroup/#!/group/788)
 
 # mobile element
 
