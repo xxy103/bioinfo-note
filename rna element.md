@@ -18,13 +18,16 @@
 2. non-LTR
   - **short interspersed element (SINE)**
 
-  -- Alu (recognized by the restriction enzyme AluI)\n
+  -- Alu (recognized by the restriction enzyme AluI)
+
   -- SVA
 
   - **long interspersed element (LINE)**
 
-  -- LINE-1 (L1)\n
-  -- L2\n
+  -- LINE-1 (L1)
+
+  -- L2
+  
   -- CR1 (chicken repeat 1)
 
 ## DNA transposon
