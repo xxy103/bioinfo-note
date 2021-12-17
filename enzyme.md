@@ -17,7 +17,7 @@
 7. t7 polymerase
   - [plasmid](https://www.addgene.org/59926/)
 8. MarathonRT
-  -[plasmid](https://www.addgene.org/109029/)
+  - [plasmid](https://www.addgene.org/109029/)
 9. reverse transcriptase
   - [plasmid](https://www.addgene.org/165556/)
   - [plasmid](https://www.addgene.org/165546/)
