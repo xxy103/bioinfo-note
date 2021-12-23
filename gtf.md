@@ -2,6 +2,7 @@
 
 1. Gencode
  - [website](https://www.gencodegenes.org/)
+ - [ftp] ftp://ftp.sanger.ac.uk/pub/gencode/Gencode_human/release_27/gencode.v27.transcripts.fa.gz
 
 2. UCSC
  - [genePredToGtf](http://genomewiki.ucsc.edu/index.php/Genes_in_gtf_or_gff_format)
