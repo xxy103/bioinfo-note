@@ -1,6 +1,6 @@
 # RNA Structure Seq bias
 
-| Rouskin et.al 1 |              |            |                | Pyle et.al 2 |            |
+|                 |Rouskin 1     |            |                | Pyle       2 |            |
 |:---------------:|:------------:|:----------:|:--------------:|:------------:|:----------:|
 | MaP             | MaP          | MaP        | Seq            | MaP          | MaP        |
 | enzyme          | TGIRT        | SSII-Mn2+  | DMS-Seq SS III | Marathon-RT  | SSII-Mn2+  |
