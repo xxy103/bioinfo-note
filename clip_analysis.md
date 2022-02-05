@@ -10,8 +10,12 @@
 9. [RBL-NCI](https://github.com/RBL-NCI/iCLIP)
 10. [easyClip](https://github.com/dfporter/easyCLIP)
 11. [nf-core](https://github.com/nf-core/clipseq)
-
+12. [easyclip-snakemake](https://github.com/dfporter/easyclip-snakemake)
+13. [SalamiSnake](https://github.com/BackofenLab/SalamiSnake)
 
 # Further read
 - [Clip and complementary methods](https://www.nature.com/articles/s43586-021-00018-1)
 - [Bioinformatic tools](https://onlinelibrary.wiley.com/doi/full/10.1002/wrna.1404)
+- [iclip2](https://pubmed.ncbi.nlm.nih.gov/31610236/)
+- [iiclip](https://doi.org/10.1101/2021.08.27.457890)
+- [kin-clip](https://www.nature.com/articles/s41586-021-03222-x)
