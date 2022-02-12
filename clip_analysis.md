@@ -12,6 +12,7 @@
 11. [nf-core](https://github.com/nf-core/clipseq)
 12. [easyclip-snakemake](https://github.com/dfporter/easyclip-snakemake)
 13. [SalamiSnake](https://github.com/BackofenLab/SalamiSnake)
+14. [prober](http://pachterlab.github.io/PROBer/)
 
 # Further read
 - [Clip and complementary methods](https://www.nature.com/articles/s43586-021-00018-1)
