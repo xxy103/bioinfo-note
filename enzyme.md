@@ -23,3 +23,6 @@
   - [plasmid](https://www.addgene.org/165546/)
 10. MashRT
   - [info](https://pipettejockey.com/2018/09/06/mashup-rt-purify-your-own-reverse-transcriptase-beta-testing-phase/)
+11. SPRI
+  - [info](https://diagnostech.co.za/next-generation-sequencing-tips-n-tricks-part-2/)
+  - [protocol](https://openwetware.org/wiki/SPRI_bead_mix)
