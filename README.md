@@ -46,3 +46,7 @@
 
 # Course
 - [applied-computational-genomics](https://github.com/quinlan-lab/applied-computational-genomics)
+
+# Collections
+- [sib-swiss](https://github.com/sib-swiss/training-collection)
+- [Ming Tang](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
