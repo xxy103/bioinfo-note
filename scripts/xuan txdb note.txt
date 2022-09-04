@@ -1,0 +1,20 @@
+txdb <-TxDb.Hsapiens.UCSC.hg38.refGene
+fiveUTRs = fiveUTRsByTranscript(txdb, use.names=T)
+x = unlist(fiveUTRs)
+names(x) = mapIds(org.Hs.eg.db, keys = names(x), keytype =  "ACCNUM", column =  "SYMBOL")
+fiveUTRs = split(x, names(x))
+fiveUTRs = reduce(fiveUTRs)
+gr=unlist(fiveUTRs)
+gr$gene_symbol = names(gr)
+
+
+utr5  fiveUTRsByTranscript
+utr3  threeUTRsByTranscript
+intron  intronsByTranscript
+cds  cdsBy
+cutr apalyzer
+autr apalyzer
+
+
+https://github.com/wwei320/iCLIP/blob/master/step6distribution.R
+
