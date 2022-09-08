@@ -1,4 +1,4 @@
-#unix
+#unix\
 cat -A (hidden character) (^I means control-I or ASCII 9, also known as TAB)\
 cat -t (hidden character)\
 cat -E (hidden new line)\
@@ -12,7 +12,8 @@ alias awkt='awk -v OFS="\t"' (awk is 1 indexed)\
 awk -v OFS="\t" '{print $0,$3-$2}' abc.bed\
 awk -v OFS="\t" '{print $0 "\t" $3-$2}' abc.bed\
 awk '{print $0,$3-$2}' abc.bed (euqals above)\
-awk '$1 ~/chr1/ && $3-$2>100' abc.bed (match, !~ not match)\
+awk '$1 ~/chr1/ && $3-$2>100' abc.bed\
+(match, !~ not match)\
 
 cut -f1,2,3 -d$'\t' abc.bed (default tab)\
 sed -i 's/old/new/g' input.txt\
@@ -42,11 +43,11 @@ export PATH=/userpath/bin:$PATH\
 paste *.txt | awk '{printf $1 "\t";for(i=2;i<=NF;i+=2) printf $i"\t";printf $i}' (htseq combine)\
 
 
-#conda
+#conda\
 conda create -n abc python=3.7.6\
 conda remove --name abc --all\
 
-#numpy
+#numpy\
 df.iloc[10:20]\
 di.loc[df['type'] == 'abc']\
 df.['total'] = df.iloc[:, 4:9].sum(axis=1)\
