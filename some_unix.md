@@ -55,3 +55,5 @@ df.loc[df['total'].str.contains('abc')]\
 df.loc[df['total'].str.contains('abc'),flags=re.I] #ignore case\
 df.loc[~df['total'].str.contains('abc'),flags=re.I] #not
 
+
+aws --no-sign-request s3 cp (link) ./ --recursive
